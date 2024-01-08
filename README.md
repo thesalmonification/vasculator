@@ -6,7 +6,7 @@ This is the dedicated starting template for all Vasculator.net clinical guidelin
 
 To get started, please clone the repository to your system using the following command: 
 
-```git clone https://github.com/thesalmonification/vasculator_template.git```
+```git clone https://github.com/thesalmonification/vasculator.git```
 
 A few resources to get you started if this is your first Flutter project:
 
